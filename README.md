@@ -1,4 +1,4 @@
-Here’s a sample `README.md` file for your Bash script project that demonstrates file access management in Linux. You can customize it further based on your preferences or specific details about your project.
+
 
 ```markdown
 # File Access Management Script
